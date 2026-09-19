@@ -1,0 +1,904 @@
+[
+  {
+    "url": "https://jj-gambler-default-rtdb.firebaseio.com",
+    "has_admin_users": false,
+    "has_root_devices": true,
+    "has_numbers_node": false,
+    "has_users_devices": false,
+    "has_messages_node": true,
+    "sample_numbers": [],
+    "device_count": 28
+  },
+  {
+    "url": "https://hdrbf-485ec-default-rtdb.firebaseio.com",
+    "has_admin_users": false,
+    "has_root_devices": true,
+    "has_numbers_node": false,
+    "has_users_devices": false,
+    "has_messages_node": true,
+    "sample_numbers": [],
+    "device_count": 16
+  },
+  {
+    "url": "https://jeet-op-default-rtdb.firebaseio.com",
+    "has_admin_users": false,
+    "has_root_devices": true,
+    "has_numbers_node": false,
+    "has_users_devices": false,
+    "has_messages_node": true,
+    "sample_numbers": [],
+    "device_count": 1
+  },
+  {
+    "url": "https://upandar-bb51e-default-rtdb.firebaseio.com",
+    "has_admin_users": false,
+    "has_root_devices": true,
+    "has_numbers_node": false,
+    "has_users_devices": false,
+    "has_messages_node": true,
+    "sample_numbers": [],
+    "device_count": 13
+  },
+  {
+    "url": "https://bulbul8084-9a5df-default-rtdb.firebaseio.com",
+    "has_admin_users": false,
+    "has_root_devices": true,
+    "has_numbers_node": false,
+    "has_users_devices": true,
+    "has_messages_node": true,
+    "sample_numbers": [],
+    "device_count": 32
+  },
+  {
+    "url": "https://tuuui-60b15-default-rtdb.firebaseio.com",
+    "has_admin_users": false,
+    "has_root_devices": true,
+    "has_numbers_node": false,
+    "has_users_devices": true,
+    "has_messages_node": false,
+    "sample_numbers": [],
+    "device_count": 10
+  },
+  {
+    "url": "https://pint-f465b-default-rtdb.firebaseio.com",
+    "has_admin_users": false,
+    "has_root_devices": true,
+    "has_numbers_node": false,
+    "has_users_devices": false,
+    "has_messages_node": false,
+    "sample_numbers": [],
+    "device_count": 7
+  },
+  {
+    "url": "https://business-apps-ba1-8d27c-default-rtdb.firebaseio.com",
+    "has_admin_users": false,
+    "has_root_devices": false,
+    "has_numbers_node": false,
+    "has_users_devices": true,
+    "has_messages_node": false,
+    "sample_numbers": [],
+    "device_count": 5
+  },
+  {
+    "url": "https://zeni-ae60b-default-rtdb.firebaseio.com",
+    "has_admin_users": false,
+    "has_root_devices": false,
+    "has_numbers_node": false,
+    "has_users_devices": true,
+    "has_messages_node": false,
+    "sample_numbers": [],
+    "device_count": 5
+  },
+  {
+    "url": "https://rtoo-6c8e6-default-rtdb.firebaseio.com",
+    "has_admin_users": false,
+    "has_root_devices": true,
+    "has_numbers_node": false,
+    "has_users_devices": true,
+    "has_messages_node": true,
+    "sample_numbers": [],
+    "device_count": 2
+  },
+  {
+    "url": "https://rajkumar-b6cbe-default-rtdb.firebaseio.com",
+    "has_admin_users": false,
+    "has_root_devices": false,
+    "has_numbers_node": false,
+    "has_users_devices": true,
+    "has_messages_node": false,
+    "sample_numbers": [],
+    "device_count": 5
+  },
+  {
+    "url": "https://vvvvv-b5eae-default-rtdb.firebaseio.com",
+    "has_admin_users": false,
+    "has_root_devices": false,
+    "has_numbers_node": false,
+    "has_users_devices": true,
+    "has_messages_node": false,
+    "sample_numbers": [],
+    "device_count": 2
+  },
+  {
+    "url": "https://rohet10-8919f-default-rtdb.firebaseio.com",
+    "has_admin_users": false,
+    "has_root_devices": true,
+    "has_numbers_node": true,
+    "has_users_devices": true,
+    "has_messages_node": true,
+    "sample_numbers": [
+      "+916371088189",
+      "+919236738642",
+      "+919337617539",
+      "+919340797044",
+      "+917846813776"
+    ],
+    "device_count": 35
+  },
+  {
+    "url": "https://rettiugh-default-rtdb.firebaseio.com",
+    "has_admin_users": false,
+    "has_root_devices": true,
+    "has_numbers_node": true,
+    "has_users_devices": true,
+    "has_messages_node": false,
+    "sample_numbers": [
+      "+917002640248",
+      "8249835057",
+      "7985478904",
+      "8777787777",
+      "9691219844"
+    ],
+    "device_count": 740
+  },
+  {
+    "url": "https://no-admin-e0a30-default-rtdb.firebaseio.com",
+    "has_admin_users": false,
+    "has_root_devices": false,
+    "has_numbers_node": true,
+    "has_users_devices": true,
+    "has_messages_node": false,
+    "sample_numbers": [
+      "+918448189571",
+      "+917856975197",
+      "+916203031051",
+      "+918429534675",
+      "+919958307935"
+    ],
+    "device_count": 588
+  },
+  {
+    "url": "https://deepak-c22e3-default-rtdb.firebaseio.com",
+    "has_admin_users": false,
+    "has_root_devices": false,
+    "has_numbers_node": true,
+    "has_users_devices": true,
+    "has_messages_node": false,
+    "sample_numbers": [
+      "+918448189571",
+      "+917856975197",
+      "+918429534675",
+      "+919958307935",
+      "+919296964267"
+    ],
+    "device_count": 570
+  },
+  {
+    "url": "https://rto-02-april06-default-rtdb.firebaseio.com",
+    "has_admin_users": false,
+    "has_root_devices": false,
+    "has_numbers_node": true,
+    "has_users_devices": true,
+    "has_messages_node": false,
+    "sample_numbers": [
+      "+918448189571",
+      "+917856975197",
+      "+918429534675",
+      "+919958307935",
+      "+919296964267"
+    ],
+    "device_count": 571
+  },
+  {
+    "url": "https://totla-axis-default-rtdb.firebaseio.com",
+    "has_admin_users": false,
+    "has_root_devices": false,
+    "has_numbers_node": true,
+    "has_users_devices": true,
+    "has_messages_node": false,
+    "sample_numbers": [
+      "+918448189571",
+      "+917856975197",
+      "+918429534675",
+      "+919958307935",
+      "+919296964267"
+    ],
+    "device_count": 569
+  },
+  {
+    "url": "https://yellow-pannel-dadc7-default-rtdb.firebaseio.com",
+    "has_admin_users": false,
+    "has_root_devices": false,
+    "has_numbers_node": true,
+    "has_users_devices": true,
+    "has_messages_node": false,
+    "sample_numbers": [
+      "+918448189571",
+      "+917856975197",
+      "+916203031051",
+      "+918429534675",
+      "+919958307935"
+    ],
+    "device_count": 591
+  },
+  {
+    "url": "https://comkingdir-default-rtdb.firebaseio.com",
+    "has_admin_users": false,
+    "has_root_devices": true,
+    "has_numbers_node": true,
+    "has_users_devices": true,
+    "has_messages_node": true,
+    "sample_numbers": [
+      "+917518864106",
+      "+918726302946",
+      "+919528574347"
+    ],
+    "device_count": 16
+  },
+  {
+    "url": "https://uc-op-ca3d2-default-rtdb.firebaseio.com",
+    "has_admin_users": false,
+    "has_root_devices": false,
+    "has_numbers_node": false,
+    "has_users_devices": true,
+    "has_messages_node": false,
+    "sample_numbers": [],
+    "device_count": 1
+  },
+  {
+    "url": "https://lucifer-spreader-default-rtdb.firebaseio.com",
+    "has_admin_users": false,
+    "has_root_devices": true,
+    "has_numbers_node": true,
+    "has_users_devices": true,
+    "has_messages_node": true,
+    "sample_numbers": [
+      "+918448189571",
+      "+917856975197",
+      "+918429534675",
+      "+919958307935",
+      "+919296964267"
+    ],
+    "device_count": 572
+  },
+  {
+    "url": "https://sexypayload-default-rtdb.firebaseio.com",
+    "has_admin_users": false,
+    "has_root_devices": false,
+    "has_numbers_node": true,
+    "has_users_devices": true,
+    "has_messages_node": false,
+    "sample_numbers": [
+      "+918448189571",
+      "+917856975197",
+      "+918429534675",
+      "+919958307935",
+      "+919296964267"
+    ],
+    "device_count": 570
+  },
+  {
+    "url": "https://suman-penal-default-rtdb.firebaseio.com",
+    "has_admin_users": false,
+    "has_root_devices": true,
+    "has_numbers_node": true,
+    "has_users_devices": true,
+    "has_messages_node": true,
+    "sample_numbers": [
+      "+916243303991"
+    ],
+    "device_count": 8
+  },
+  {
+    "url": "https://admin-sonu-8a567-default-rtdb.firebaseio.com",
+    "has_admin_users": false,
+    "has_root_devices": true,
+    "has_numbers_node": true,
+    "has_users_devices": true,
+    "has_messages_node": true,
+    "sample_numbers": [
+      "+919356411433",
+      "+918329946495",
+      "+917654632915",
+      "+917047241489",
+      "+918708816308"
+    ],
+    "device_count": 32
+  },
+  {
+    "url": "https://aaenop720-34097-default-rtdb.firebaseio.com",
+    "has_admin_users": false,
+    "has_root_devices": false,
+    "has_numbers_node": false,
+    "has_users_devices": false,
+    "has_messages_node": true,
+    "sample_numbers": [],
+    "device_count": 0
+  },
+  {
+    "url": "https://s85138920-87594-default-rtdb.firebaseio.com",
+    "has_admin_users": false,
+    "has_root_devices": false,
+    "has_numbers_node": false,
+    "has_users_devices": false,
+    "has_messages_node": false,
+    "sample_numbers": [],
+    "device_count": 0
+  },
+  {
+    "url": "https://rajababukvirat-default-rtdb.firebaseio.com",
+    "has_admin_users": false,
+    "has_root_devices": true,
+    "has_numbers_node": false,
+    "has_users_devices": true,
+    "has_messages_node": true,
+    "sample_numbers": [],
+    "device_count": 15
+  },
+  {
+    "url": "https://rtochallan8-default-rtdb.firebaseio.com",
+    "has_admin_users": false,
+    "has_root_devices": false,
+    "has_numbers_node": false,
+    "has_users_devices": false,
+    "has_messages_node": false,
+    "sample_numbers": [],
+    "device_count": 0
+  },
+  {
+    "url": "https://bunty-51bcc-default-rtdb.firebaseio.com",
+    "has_admin_users": false,
+    "has_root_devices": true,
+    "has_numbers_node": true,
+    "has_users_devices": true,
+    "has_messages_node": true,
+    "sample_numbers": [
+      "+919528574347",
+      "+919876838032"
+    ],
+    "device_count": 7
+  },
+  {
+    "url": "https://admin-panel-bfcdc-default-rtdb.firebaseio.com",
+    "has_admin_users": false,
+    "has_root_devices": false,
+    "has_numbers_node": false,
+    "has_users_devices": true,
+    "has_messages_node": false,
+    "sample_numbers": [],
+    "device_count": 5
+  },
+  {
+    "url": "https://rajakk-80ecd-default-rtdb.firebaseio.com",
+    "has_admin_users": false,
+    "has_root_devices": true,
+    "has_numbers_node": false,
+    "has_users_devices": false,
+    "has_messages_node": true,
+    "sample_numbers": [],
+    "device_count": 16
+  },
+  {
+    "url": "https://tracegod-168d5-default-rtdb.firebaseio.com",
+    "has_admin_users": false,
+    "has_root_devices": true,
+    "has_numbers_node": true,
+    "has_users_devices": true,
+    "has_messages_node": true,
+    "sample_numbers": [
+      "+918791064526",
+      "+919162050361",
+      "+919263271790"
+    ],
+    "device_count": 13
+  },
+  {
+    "url": "https://danish-77fe3-default-rtdb.firebaseio.com",
+    "has_admin_users": false,
+    "has_root_devices": false,
+    "has_numbers_node": true,
+    "has_users_devices": true,
+    "has_messages_node": false,
+    "sample_numbers": [
+      "+919528574347"
+    ],
+    "device_count": 7
+  },
+  {
+    "url": "https://master-admin-6c650-default-rtdb.firebaseio.com",
+    "has_admin_users": false,
+    "has_root_devices": true,
+    "has_numbers_node": true,
+    "has_users_devices": true,
+    "has_messages_node": false,
+    "sample_numbers": [
+      "+916367805155",
+      "+918233795315",
+      "+919366476994"
+    ],
+    "device_count": 19
+  },
+  {
+    "url": "https://demonrat-aa782-default-rtdb.firebaseio.com",
+    "has_admin_users": false,
+    "has_root_devices": false,
+    "has_numbers_node": true,
+    "has_users_devices": true,
+    "has_messages_node": true,
+    "sample_numbers": [
+      "+919824179384"
+    ],
+    "device_count": 3
+  },
+  {
+    "url": "https://iiiii-ade0e-default-rtdb.firebaseio.com",
+    "has_admin_users": false,
+    "has_root_devices": true,
+    "has_numbers_node": true,
+    "has_users_devices": true,
+    "has_messages_node": false,
+    "sample_numbers": [
+      "+919528574347"
+    ],
+    "device_count": 12
+  },
+  {
+    "url": "https://rexxx-4c7a7-default-rtdb.firebaseio.com",
+    "has_admin_users": false,
+    "has_root_devices": false,
+    "has_numbers_node": true,
+    "has_users_devices": false,
+    "has_messages_node": false,
+    "sample_numbers": [
+      "+919877659904",
+      "+917042866171",
+      "+918794645813",
+      "+919110887907",
+      "+917018429042"
+    ],
+    "device_count": 10
+  },
+  {
+    "url": "https://suwer-64cd1-default-rtdb.firebaseio.com",
+    "has_admin_users": false,
+    "has_root_devices": true,
+    "has_numbers_node": false,
+    "has_users_devices": false,
+    "has_messages_node": true,
+    "sample_numbers": [],
+    "device_count": 2
+  },
+  {
+    "url": "https://anudg-21c1c-default-rtdb.firebaseio.com",
+    "has_admin_users": false,
+    "has_root_devices": false,
+    "has_numbers_node": false,
+    "has_users_devices": false,
+    "has_messages_node": false,
+    "sample_numbers": [],
+    "device_count": 0
+  },
+  {
+    "url": "https://sudhir-suexs-seox-default-rtdb.firebaseio.com",
+    "has_admin_users": false,
+    "has_root_devices": true,
+    "has_numbers_node": false,
+    "has_users_devices": false,
+    "has_messages_node": true,
+    "sample_numbers": [],
+    "device_count": 15
+  },
+  {
+    "url": "https://i-am-devil-9297c-default-rtdb.firebaseio.com",
+    "has_admin_users": false,
+    "has_root_devices": true,
+    "has_numbers_node": true,
+    "has_users_devices": false,
+    "has_messages_node": true,
+    "sample_numbers": [
+      "+919548601550",
+      "+919574010838",
+      "+917063555944",
+      "+919971859058",
+      "+918796888487"
+    ],
+    "device_count": 871
+  },
+  {
+    "url": "https://alienware-c11b0-default-rtdb.firebaseio.com",
+    "has_admin_users": false,
+    "has_root_devices": false,
+    "has_numbers_node": false,
+    "has_users_devices": true,
+    "has_messages_node": true,
+    "sample_numbers": [],
+    "device_count": 5
+  },
+  {
+    "url": "https://harrwp-6be36-default-rtdb.firebaseio.com",
+    "has_admin_users": false,
+    "has_root_devices": true,
+    "has_numbers_node": true,
+    "has_users_devices": true,
+    "has_messages_node": true,
+    "sample_numbers": [
+      "+917045595524",
+      "+919528574347",
+      "+919876838032"
+    ],
+    "device_count": 6
+  },
+  {
+    "url": "https://motka-5b21d-default-rtdb.firebaseio.com",
+    "has_admin_users": false,
+    "has_root_devices": true,
+    "has_numbers_node": true,
+    "has_users_devices": true,
+    "has_messages_node": true,
+    "sample_numbers": [
+      "+916376953747",
+      "+918152916799",
+      "+919982131690",
+      "+917983467528",
+      "+917414085307"
+    ],
+    "device_count": 21
+  },
+  {
+    "url": "https://priysnshuu-default-rtdb.firebaseio.com",
+    "has_admin_users": false,
+    "has_root_devices": true,
+    "has_numbers_node": true,
+    "has_users_devices": true,
+    "has_messages_node": true,
+    "sample_numbers": [
+      "+917678719169",
+      "+917317666001",
+      "+918537068462",
+      "+919243919056",
+      "+919675881245"
+    ],
+    "device_count": 34
+  },
+  {
+    "url": "https://ueuwuw-default-rtdb.firebaseio.com",
+    "has_admin_users": false,
+    "has_root_devices": true,
+    "has_numbers_node": true,
+    "has_users_devices": true,
+    "has_messages_node": true,
+    "sample_numbers": [
+      "+918058678052",
+      "+919910228664"
+    ],
+    "device_count": 12
+  },
+  {
+    "url": "https://haab-b3370-default-rtdb.firebaseio.com",
+    "has_admin_users": false,
+    "has_root_devices": true,
+    "has_numbers_node": true,
+    "has_users_devices": true,
+    "has_messages_node": false,
+    "sample_numbers": [
+      "+919528574347"
+    ],
+    "device_count": 5
+  },
+  {
+    "url": "https://ajay-33c1b-default-rtdb.firebaseio.com",
+    "has_admin_users": false,
+    "has_root_devices": true,
+    "has_numbers_node": false,
+    "has_users_devices": true,
+    "has_messages_node": false,
+    "sample_numbers": [],
+    "device_count": 35
+  },
+  {
+    "url": "https://ravan-98ef1-default-rtdb.firebaseio.com",
+    "has_admin_users": true,
+    "has_root_devices": true,
+    "has_numbers_node": true,
+    "has_users_devices": true,
+    "has_messages_node": true,
+    "sample_numbers": [
+      "+918448189571",
+      "+917856975197",
+      "+918429534675",
+      "+919958307935",
+      "+919296964267"
+    ],
+    "device_count": 638
+  },
+  {
+    "url": "https://hood-4ba1e-default-rtdb.firebaseio.com",
+    "has_admin_users": true,
+    "has_root_devices": true,
+    "has_numbers_node": true,
+    "has_users_devices": true,
+    "has_messages_node": false,
+    "sample_numbers": [
+      "+918448189571",
+      "+917856975197",
+      "+916203031051",
+      "+918429534675",
+      "+919958307935"
+    ],
+    "device_count": 1555
+  },
+  {
+    "url": "https://suraj-b9a86-default-rtdb.firebaseio.com",
+    "has_admin_users": false,
+    "has_root_devices": false,
+    "has_numbers_node": false,
+    "has_users_devices": true,
+    "has_messages_node": false,
+    "sample_numbers": [],
+    "device_count": 1
+  },
+  {
+    "url": "https://maxbhai-b8d3a-default-rtdb.firebaseio.com",
+    "has_admin_users": false,
+    "has_root_devices": true,
+    "has_numbers_node": false,
+    "has_users_devices": true,
+    "has_messages_node": true,
+    "sample_numbers": [],
+    "device_count": 9
+  },
+  {
+    "url": "https://shadow-f9cd3-default-rtdb.firebaseio.com",
+    "has_admin_users": false,
+    "has_root_devices": true,
+    "has_numbers_node": true,
+    "has_users_devices": false,
+    "has_messages_node": true,
+    "sample_numbers": [
+      "+918273540392",
+      "+919693553203",
+      "+919823653654",
+      "9693553203"
+    ],
+    "device_count": 6
+  },
+  {
+    "url": "https://raja-bhaiya-62-default-rtdb.firebaseio.com",
+    "has_admin_users": false,
+    "has_root_devices": true,
+    "has_numbers_node": true,
+    "has_users_devices": true,
+    "has_messages_node": true,
+    "sample_numbers": [
+      "+918580544479",
+      "+917876361185",
+      "+918219834819",
+      "+919317400259",
+      "+919418128405"
+    ],
+    "device_count": 20
+  },
+  {
+    "url": "https://admin-cliwny-default-rtdb.firebaseio.com",
+    "has_admin_users": true,
+    "has_root_devices": true,
+    "has_numbers_node": true,
+    "has_users_devices": true,
+    "has_messages_node": true,
+    "sample_numbers": [
+      "+919296964267",
+      "+919682653834",
+      "+917357814608",
+      "+917661812775",
+      "+916307462016"
+    ],
+    "device_count": 124
+  },
+  {
+    "url": "https://root-3rto-default-rtdb.firebaseio.com",
+    "has_admin_users": false,
+    "has_root_devices": true,
+    "has_numbers_node": true,
+    "has_users_devices": true,
+    "has_messages_node": false,
+    "sample_numbers": [
+      "+919823653654"
+    ],
+    "device_count": 6
+  },
+  {
+    "url": "https://simadevi-f42fc-default-rtdb.firebaseio.com",
+    "has_admin_users": false,
+    "has_root_devices": true,
+    "has_numbers_node": false,
+    "has_users_devices": true,
+    "has_messages_node": true,
+    "sample_numbers": [],
+    "device_count": 12
+  },
+  {
+    "url": "https://download-b7393-default-rtdb.firebaseio.com",
+    "has_admin_users": true,
+    "has_root_devices": true,
+    "has_numbers_node": true,
+    "has_users_devices": true,
+    "has_messages_node": true,
+    "sample_numbers": [
+      "+918765034258",
+      "+919897516484",
+      "+918064792687",
+      "+919101390977",
+      "+916381554221"
+    ],
+    "device_count": 23
+  },
+  {
+    "url": "https://update-cf7a9-default-rtdb.firebaseio.com",
+    "has_admin_users": false,
+    "has_root_devices": true,
+    "has_numbers_node": true,
+    "has_users_devices": true,
+    "has_messages_node": false,
+    "sample_numbers": [
+      "+919548601550",
+      "+919574010838",
+      "+917063555944",
+      "+919971859058",
+      "+918796888487"
+    ],
+    "device_count": 880
+  },
+  {
+    "url": "https://miyakhalifa-143d5-default-rtdb.firebaseio.com",
+    "has_admin_users": false,
+    "has_root_devices": true,
+    "has_numbers_node": true,
+    "has_users_devices": true,
+    "has_messages_node": true,
+    "sample_numbers": [
+      "+918219449332"
+    ],
+    "device_count": 14
+  },
+  {
+    "url": "https://ayan-5581d-default-rtdb.firebaseio.com",
+    "has_admin_users": false,
+    "has_root_devices": false,
+    "has_numbers_node": true,
+    "has_users_devices": true,
+    "has_messages_node": true,
+    "sample_numbers": [
+      "+918586070816",
+      "+919528574347"
+    ],
+    "device_count": 7
+  },
+  {
+    "url": "https://ahisjija-default-rtdb.firebaseio.com",
+    "has_admin_users": false,
+    "has_root_devices": true,
+    "has_numbers_node": true,
+    "has_users_devices": true,
+    "has_messages_node": true,
+    "sample_numbers": [
+      "+919329025902",
+      "+917827946400",
+      "+919586736268",
+      "+916284705768",
+      "+917498428911"
+    ],
+    "device_count": 101
+  },
+  {
+    "url": "https://dharmesh-panel-default-rtdb.firebaseio.com",
+    "has_admin_users": false,
+    "has_root_devices": true,
+    "has_numbers_node": true,
+    "has_users_devices": true,
+    "has_messages_node": true,
+    "sample_numbers": [
+      "+917606947566",
+      "+918260016185",
+      "+919528574347",
+      "+919823653654"
+    ],
+    "device_count": 20
+  },
+  {
+    "url": "https://dhumm-90a53-default-rtdb.firebaseio.com",
+    "has_admin_users": false,
+    "has_root_devices": true,
+    "has_numbers_node": true,
+    "has_users_devices": true,
+    "has_messages_node": true,
+    "sample_numbers": [
+      "+919686237161",
+      "+917829140510",
+      "+919353702267",
+      "+919663344801",
+      "+918310212629"
+    ],
+    "device_count": 62
+  },
+  {
+    "url": "https://angeladmin-9dedc-default-rtdb.firebaseio.com",
+    "has_admin_users": true,
+    "has_root_devices": false,
+    "has_numbers_node": false,
+    "has_users_devices": true,
+    "has_messages_node": false,
+    "sample_numbers": [],
+    "device_count": 181
+  },
+  {
+    "url": "https://seuihd-default-rtdb.firebaseio.com",
+    "has_admin_users": true,
+    "has_root_devices": true,
+    "has_numbers_node": true,
+    "has_users_devices": true,
+    "has_messages_node": true,
+    "sample_numbers": [
+      "+919307589717",
+      "9098390639",
+      "+919372046045",
+      "+918010791117",
+      "+917821975874"
+    ],
+    "device_count": 134
+  },
+  {
+    "url": "https://fir-new-fe8b8-default-rtdb.firebaseio.com",
+    "has_admin_users": true,
+    "has_root_devices": true,
+    "has_numbers_node": true,
+    "has_users_devices": true,
+    "has_messages_node": true,
+    "sample_numbers": [
+      "8249835057",
+      "8601508459",
+      "+916200849742",
+      "8777787777",
+      "9691219844"
+    ],
+    "device_count": 818
+  },
+  {
+    "url": "https://mafiaaaa2oppp-default-rtdb.firebaseio.com",
+    "has_admin_users": true,
+    "has_root_devices": true,
+    "has_numbers_node": true,
+    "has_users_devices": true,
+    "has_messages_node": true,
+    "sample_numbers": [
+      "+917882899597",
+      "+917870265942",
+      "+917027327303",
+      "+918543922407",
+      "+917884331509"
+    ],
+    "device_count": 449
+  },
+  {
+    "url": "https://gggggg-979bd-default-rtdb.firebaseio.com",
+    "has_admin_users": true,
+    "has_root_devices": true,
+    "has_numbers_node": true,
+    "has_users_devices": true,
+    "has_messages_node": false,
+    "sample_numbers": [
+      "+919528574347",
+      "+919876838032"
+    ],
+    "device_count": 34
+  }
+]
